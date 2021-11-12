@@ -42,6 +42,10 @@ export default {
     '@nuxtjs/axios',
   ],
 
+  loading: {
+    color: '#39b982',
+  },
+
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 
